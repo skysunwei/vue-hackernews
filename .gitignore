@@ -1,2 +1,4 @@
+/.idea
+/static/build.js
 .DS_Store
 node_modules
